@@ -1,4 +1,4 @@
-SvxLink
+SvxLinktest
 =======
 
 image:https://travis-ci.org/sm0svx/svxlink.svg?branch=master["Build Status", link="https://travis-ci.org/sm0svx/svxlink"]
